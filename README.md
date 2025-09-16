@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @2a04ish
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on projects based on python
+- 👀 I’m interested in coding and learning about more programming languages
+- 🌱 I’m currently learning about other programming languages besides doing my B.Tech
+- 💞️ I’m looking to collaborate on projects of my capability
 - 😄 Pronouns: Her/She
 
 <!---
